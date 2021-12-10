@@ -11,6 +11,8 @@ bfopen - by the Open Microscope Environment team (bioformats) to open and read 4
 
 ReadImageJROI - by Dylan Muir to read in ImageJ/FIJI roi selections for bead detections. https://jp.mathworks.com/matlabcentral/fileexchange/32479-readimagejroi
 
+If you do end up using our code, please give us a citation -> link to the full paper here https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full
+
 
 So how do you use it?
 There are two main options
@@ -40,5 +42,7 @@ There are two main options
   - Remember to save the workspace
 
 - Finally create a corrected image, run mnl_CorrectForChromaticAberration, you will be prompted to load both the image and the ChromaticCorrections structure. Each channel will be produced as a separate 3D tiff stack saved to your current directory.
+
+The original data from the paper can be accessed here https://ssbd.riken.jp/repository/208/ if you'd like to practise with our data
   
-Any more questions? Feel free to let us know!
+If you've got any more questions? Feel free to let us know! 
