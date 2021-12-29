@@ -18,7 +18,7 @@ skimage==0.0
 ```
 
 ## Usage
-The folder consists of two scripts `chromatic_abb_measure.py` and `abberation_correction.py`. The first one does all the image processing and regression calculation and the 2nd one does the corrections based on those calculations. Make sure to keep both of them in the same directory. 
+The folder consists of two scripts `chromatic_abb_measure.py` and `abberation_correction.py`. The first one does all the image processing and regression calculation and the 2nd one does the corrections based on those calculations. Make sure to keep both of them in the same directory. All the codes are efficiently commented.
 
 The code uses the current distribution of [napari](https://napari.org/), highly interactive image viewer built with Python. 
 ```python
