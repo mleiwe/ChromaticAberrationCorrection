@@ -2,7 +2,7 @@
 
 A simple Python version of the MATLAB codes. Python has some disadvantages and so the MATLAB codes takes precedence but the Python codes provide a starting point to implement this making it more open source friendly.
 
-## Depedencies:
+## Dependencies:
 All the packages can be installed with pip or pip3(for Python3) [pip](https://pip.pypa.io/en/stable/)
 Included in the requirements.txt
 ```bash
