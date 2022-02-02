@@ -94,7 +94,7 @@ for i=1:szBeads
     if Zmax>Mdim(4)
         Zmax=Mdim(4);
     end
-    if strcmp(ID,'.zip')==1
+    if strcmp(ID,'.zip')==1 || isempty(ID)
         Data2=Data(Ymin:Ymax,Xmin:Xmax,:,Zmin:Zmax);
     else
         Data2=Data(Xmin:Xmax,Ymin:Ymax,:,Zmin:Zmax);
