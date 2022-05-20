@@ -46,3 +46,5 @@ There are two main options
 The original data from the paper can be accessed here https://ssbd.riken.jp/repository/208/ if you'd like to practise with our data
   
 If you've got any more questions? Feel free to let us know! 
+Twitter @marcusleiwe
+Email available on the paper https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full
