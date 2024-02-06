@@ -47,4 +47,4 @@ The original data from the paper can be accessed here https://ssbd.riken.jp/repo
   
 If you've got any more questions? Feel free to let us know! 
 Twitter @marcusleiwe
-Email available on the paper https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full
+Email available on the paper https://www.frontiersin.org/articles/10.3389/fnana.2021.760063/full (NB My Kyushu University e-mail address is no longer valid so reach out here for code help, for biology questions and requests please contact Takeshi Imai)
